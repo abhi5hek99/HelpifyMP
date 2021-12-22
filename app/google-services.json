@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431833581838",
+    "project_id": "helpifymp",
+    "storage_bucket": "helpifymp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431833581838:android:1be252f7a4bd6af9d4ef5f",
+        "android_client_info": {
+          "package_name": "com.patel.helpifymp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431833581838-602rrg5rrc5q3bitgr4j0dcsj6mc2ilq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patel.helpifymp",
+            "certificate_hash": "11fc8835157af240d94655decc572b60156b9ae1"
+          }
+        },
+        {
+          "client_id": "431833581838-ednlokukv9c3dvm9e2eo8euq9ha3pchq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKkj7Nj6I3zHagLUVVy8_2N5-u6mJwhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431833581838-ednlokukv9c3dvm9e2eo8euq9ha3pchq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
